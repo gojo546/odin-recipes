@@ -1,2 +1,2 @@
-# odin-recipes
-A few recipes
+First project from the odin project basically using basic formatting text with some hyperlinks and images hopefully.
+What's more important is that it is linked with git so its atleast gonna be helpful in learning that.
